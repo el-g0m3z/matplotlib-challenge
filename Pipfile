@@ -11,6 +11,8 @@ pandas = "*"
 matplotlib = "*"
 numpy = "*"
 jinja2 = "*"
+pil = "*"
+pillow = "*"
 
 [requires]
 python_version = "3.8"
